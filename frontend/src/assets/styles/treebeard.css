@@ -1,0 +1,21 @@
+/* treebeard.css */
+.treebeard {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .treebeard__node {
+    padding-left: 10px;
+    cursor: pointer;
+  }
+  
+  .treebeard__node--active {
+    background-color: #e0e0e0;
+  }
+  
+  .treebeard__tree {
+    padding-left: 15px;
+    list-style: none;
+  }
+  
